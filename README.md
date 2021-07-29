@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jammming App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using React. You can visit the webpage [here](https://arjiq.github.io/jammming). 
 
 ## Available Scripts
 
