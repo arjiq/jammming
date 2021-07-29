@@ -2,7 +2,7 @@
 
 let accessToken;
 const clientId = '16916fc3cb2f452fac68242c57634cdf';
-const redirectUri = 'http://arjiq.github.io/jammming';
+const redirectUri = 'https://arjiq.github.io/jammming';
 
 
 const Spotify = {
